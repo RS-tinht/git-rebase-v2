@@ -1,3 +1,7 @@
+# v1.0.1 - 20221122
+
+- [rs-06] Remove NAL content from sample file
+[PR#8] (https://github.com/RS-tinht/git-rebase-v2/pull/8)
 # v1.0.0 - 20221122
 
 - [rs-04]: remove EST content from sample file
